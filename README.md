@@ -31,7 +31,7 @@ This is the open-source repository for the CounselBot web-app.
 
 - Cloning the Repository: 
 
-        git clone https://github.com/Nivetha2312/Hacknight-CounselBot.git
+        git clone https://github.com/Cybersquad12/Hacknight-CounselBot.git
 - Enter The directory: 
 
         cd Hacknight-CounselBot
