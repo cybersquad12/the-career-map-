@@ -34,7 +34,7 @@ This is the open-source repository for the CounselBot web-app.
         git clone https://github.com/cybersquad12/Hacknight-CounselBot.git
 - Enter The directory: 
 
-        cd Hacknight-CounselBot
+        cd the-career-map
 - Run the Python setup:
         
         python setup.py
